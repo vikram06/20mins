@@ -2,7 +2,7 @@ const notifier = require('node-notifier');
 const path = require('path');
 const every = require('every-moment');
 
-every(20, 'seconds', function() {
+every(20, 'minutes', function() {
    
     notifier.notify(
         {
