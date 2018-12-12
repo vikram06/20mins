@@ -1,0 +1,28 @@
+{
+  "name": "20mins",
+  "version": "1.0.0",
+  "description": "Take a Standing Break Every 20 Minutes to Keep Your Eyes Healthy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vikram06/20mins.git"
+  },
+  "keywords": [
+    "node",
+    "notifications",
+    "20mins"
+  ],
+  "author": "Vikram Ravichandran",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vikram06/20mins/issues"
+  },
+  "homepage": "https://github.com/vikram06/20mins#readme",
+  "dependencies": {
+    "every-moment": "0.0.1",
+    "node-notifier": "^5.3.0"
+  }
+}
